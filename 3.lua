@@ -22,4 +22,3 @@ for y = 1, s do
         end
     end
 end
-print("✅ Pixel Art Carregada!")
