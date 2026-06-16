@@ -1,5 +1,3 @@
--- Deobfuscated by LeakD | discord.gg/qteAQmfJmP
-
 local Env = getfenv();
 local w = {};
 local v1 = {...};
